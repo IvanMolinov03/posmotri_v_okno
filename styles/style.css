@@ -8,7 +8,6 @@ html {
   block-size: 100%;
 }
 
-
 h1,
 h2,
 h3,
@@ -155,7 +154,6 @@ ol {
 }
 
 .search-form__checkbox:checked ~ .search-form__pseudo-checkbox::before {
-  position: absolute;
   content: "";
   width: 15px;
   height: 15px;
