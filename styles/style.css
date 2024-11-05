@@ -62,8 +62,6 @@ ol {
   align-items: start;
   padding: 2px 0 2px 2px;
   color: white;
-  max-width: 394px;
-  max-height: 107px;
 }
 
 .content__video-card-description-container {
@@ -71,6 +69,8 @@ ol {
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  max-width: 200px;
+  max-height: 101px;
 }
 
 .content__video-card-thumbnail {
